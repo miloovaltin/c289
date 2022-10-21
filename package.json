@@ -1,0 +1,16 @@
+{
+"name": "c289",
+"theme": "c289",
+"version": "10.1.6",
+"description": "c289 สมัครสมาชิกเว็บบาคาร่าเว็บตรง ระบบออโต้ ให้เงินเครดิตฟรี",
+"keywords": [
+"c289",
+"c289 เครดิตฟรี",
+"c289 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/c289",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
